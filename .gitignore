@@ -1,0 +1,8 @@
+dataset/KITTI/
+kitti/*.pickle
+mayavi/__pycache__/
+models/__pycache__/
+train/__pycache__/
+train/detection_results_v1/
+train/log_v1/
+train/log_v2/
